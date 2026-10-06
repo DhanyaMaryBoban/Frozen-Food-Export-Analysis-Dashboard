@@ -1,2 +1,2 @@
 # Frozen Food Export Analysis
-Built Excel/Power BI dashboard for frozen food exports, analyzed buyers, competitors, and price trends to highlight best‑selling products and guide sales strategy.
+This analysis evaluates international export performance within the frozen food sector. While the core dataset encompasses over **45,000 shipment records**, this study specifically focuses on three key high-demand product categories designated by stakeholders: **Grated Coconut**, **Porotta**, and **Tapioca**. Built Excel/Power BI dashboard for frozen food exports, analyzed buyers, competitors and price trends and quantity sold to highlight best‑selling products.
